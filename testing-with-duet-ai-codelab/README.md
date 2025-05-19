@@ -10,4 +10,4 @@ The command to do so is:
 You will not be uploading any changes to this code. See the
 [codelab](https://codelabs.google.com/codelabs/testing-with-duet-ai) for further instructions.
 
-hogegehogee
+hhhgg
