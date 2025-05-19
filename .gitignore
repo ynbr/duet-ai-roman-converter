@@ -1,0 +1,8 @@
+   # Pythonファイルとテキストファイルを含める
+   .py
+   .txt
+
+   # システムファイルを無視
+   .DS_Store
+   __pycache__/
+   .env
